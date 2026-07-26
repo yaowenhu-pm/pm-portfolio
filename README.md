@@ -2,7 +2,7 @@
 
 一份以翻页式交互呈现的个人产品经理作品集，展示产品观、经历、方法论、作品与联系方式。
 
-在线访问：[yaowenhu-uestc.github.io/yaowenhu-pm-portfolio](https://yaowenhu-uestc.github.io/yaowenhu-pm-portfolio/)
+在线访问：[yaowenhu-pm.github.io/yaowenhu-pm-portfolio](https://yaowenhu-pm.github.io/yaowenhu-pm-portfolio/)
 
 ## 页面内容
 
