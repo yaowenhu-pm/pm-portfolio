@@ -2,13 +2,15 @@
 
 一份以翻页式交互呈现的个人产品经理作品集，展示产品观、经历、方法论、作品与联系方式。
 
-在线访问：[yaowenhu-pm.github.io/yaowenhu-pm-portfolio](https://yaowenhu-pm.github.io/yaowenhu-pm-portfolio/)
+在线访问：[yaowenhu-pm.github.io/pm-portfolio](https://yaowenhu-pm.github.io/pm-portfolio/)
 
 ## 页面内容
 
-- 个人简介与产品观
-- 项目经历与方法论
-- 代表作品与联系方式
+- 首页：个人简介与产品定位（AI 产品方向）
+- 三段经历：用数字概览职业路径
+- 代表作品：家长社区从 0 到 1
+- 产品方法论：从需求到上线的完整流程
+- 部分 Demo 与联系方式
 
 ## 本地预览
 
